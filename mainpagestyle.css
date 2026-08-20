@@ -1,0 +1,32 @@
+h1{
+    color:rgb(5, 58, 76);
+    text-decoration: underline;
+    text-decoration-color: rgb(5, 58, 76);
+    
+}
+h3{
+    color:rgb(5, 58, 76);
+    text-decoration:underline;
+    text-decoration-color: rgb(5, 58, 76);
+}
+
+
+.box
+{
+    
+    position:fixed;
+    top:20px;
+    right:20px;
+    width:150px;
+    height:160px;
+    
+
+}
+.box img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+body{
+    background-color:rgb(201, 231, 248);
+}
